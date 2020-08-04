@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Muhammad Hamza
 
 
-## I'm a Full Stack developer Developer
+## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on  Full Stack JavaScript development
 - 👯I'm looking to work with software houses working on modern tech stacks

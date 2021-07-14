@@ -4,7 +4,7 @@
 ## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on  Full Stack JavaScript development
-- 👯 I'm looking to work with software houses working on modern tech stacks
+- 👯 I'm looking to work with Organizations working on modern tech-stack
 - 🌱 I'm currently learning everything 🤣
 - 🥅 2021 Goals: Learn More and become professional
 -  Fun fact: I love skydiving / Hiking

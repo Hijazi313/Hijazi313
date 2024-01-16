@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on  Full Stack JavaScript development
 - 👯 I'm looking to work with Organizations working on modern tech-stack
 - 🌱 I'm currently learning everything 🤣
-- 🥅 2023 Goals: Learn More and become professional
+- 🥅 2024 Goals: Learn More and become professional
 -  Fun fact: I love skydiving / Hiking
 
 ### Connect with me:
